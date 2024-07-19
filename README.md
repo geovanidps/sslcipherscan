@@ -5,10 +5,13 @@ Se o handshake for bem-sucedido, ele imprime YES. Se o handshake não for bem-su
 
 
 Uso:
-python3 sslcipherscan.py
+* python3 sslcipherscan.py
 
-Insira o endereço alvo(example.com:443):
+Insira o endereço alvo(example.com:443): 
 
 ![image](https://github.com/user-attachments/assets/257ecd90-aabc-434a-8cf4-cf983cae0bf1)
+
+# Contribuições
+Colaboradores e solicitações de pull são bem-vindos!
 
 
